@@ -1,0 +1,61 @@
+{"_id":{"$oid":"5ce41619aaa0c03a60707c69"},"films":["https://swapi.co/api/films/6/","https://swapi.co/api/films/1/"],"name":"Alderaan","population":{"$numberInt":"2000000000"},"climate":"temperate","terrain":"grasslands, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce416fc39c06e34cc3fbc6d"},"films":["https://swapi.co/api/films/1/"],"name":"Yavin IV","population":{"$numberInt":"1000"},"climate":"temperate, tropical","terrain":"jungle, rainforests","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce417502b88b835283954cf"},"films":["https://swapi.co/api/films/2/"],"name":"Hoth","population":"unknown","climate":"frozen","terrain":"tundra, ice caves, mountain ranges","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce417a42b88b835283954d0"},"films":["https://swapi.co/api/films/2/","https://swapi.co/api/films/6/","https://swapi.co/api/films/3/"],"name":"Dagobah","population":"unknown","climate":"murky","terrain":"swamp, jungles","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce417c62b88b835283954d1"},"films":["https://swapi.co/api/films/2/"],"name":"Bespin","population":"6000000","climate":"temperate","terrain":"gas giant","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce417f92b88b835283954d2"},"films":["https://swapi.co/api/films/3/"],"name":"Endor","population":"30000000","climate":"temperate","terrain":"forests, mountains, lakes","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce4181c2b88b835283954d3"},"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/4/","https://swapi.co/api/films/6/","https://swapi.co/api/films/3/"],"name":"Naboo","population":"4500000000","climate":"temperate","terrain":"grassy hills, swamps, forests, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce4183f2b88b835283954d4"},"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/4/","https://swapi.co/api/films/6/","https://swapi.co/api/films/3/"],"name":"Coruscant","population":"1000000000000","climate":"temperate","terrain":"cityscape, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce418612b88b835283954d5"},"films":["https://swapi.co/api/films/5/"],"name":"Kamino","population":"1000000000","climate":"temperate","terrain":"ocean","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce4187f2b88b835283954d6"},"films":["https://swapi.co/api/films/5/"],"name":"Geonosis","population":"100000000000","climate":"temperate, arid","terrain":"rock, desert, mountain, barren","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce418fb2b88b835283954d7"},"films":["https://swapi.co/api/films/6/"],"name":"Utapau","population":"95000000","climate":"temperate, arid, windy","terrain":"scrublands, savanna, canyons, sinkholes","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce4192b2b88b835283954d8"},"films":["https://swapi.co/api/films/6/"],"name":"Mustafar","population":"20000","climate":"hot","terrain":"volcanoes, lava rivers, mountains, caves","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce419592b88b835283954d9"},"films":["https://swapi.co/api/films/6/"],"name":"Kashyyyk","population":"45000000","climate":"tropical","terrain":"jungle, forests, lakes, rivers","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce419792b88b835283954da"},"films":["https://swapi.co/api/films/6/"],"name":"Polis Massa","population":"1000000","climate":"artificial temperate","terrain":"airless asteroid","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce419992b88b835283954db"},"films":["https://swapi.co/api/films/6/"],"name":"Mygeeto","population":"19000000","climate":"frigid","terrain":"glaciers, mountains, ice canyons","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce419b52b88b835283954dc"},"films":["https://swapi.co/api/films/6/"],"name":"Felucia","population":"8500000","climate":"hot, humid","terrain":"fungus forests","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce419e12b88b835283954dd"},"films":["https://swapi.co/api/films/6/"],"name":"Cato Neimoidia","population":"10000000","climate":"temperate, moist","terrain":"mountains, fields, forests, rock arches","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41a062b88b835283954de"},"films":["https://swapi.co/api/films/6/"],"name":"Saleucami","population":"1400000000","climate":"hot","terrain":"caves, desert, mountains, volcanoes","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41a2d2b88b835283954df"},"films":[],"name":"Stewjon","population":"unknown","climate":"temperate","terrain":"grass","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41a512b88b835283954e0"},"films":[],"name":"Eriadu","population":"22000000000","climate":"polluted","terrain":"cityscape","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41a792b88b835283954e1"},"films":[],"name":"Corellia","population":"3000000000","climate":"temperate","terrain":"plains, urban, hills, forests","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41a9d2b88b835283954e2"},"films":[],"name":"Rodia","population":"1300000000","climate":"hot","terrain":"jungles, oceans, urban, swamps","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41abe2b88b835283954e3"},"films":[],"name":"Nal Hutta","population":"7000000000","climate":"temperate","terrain":"urban, oceans, swamps, bogs","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ae62b88b835283954e4"},"films":[],"name":"Dantooine","population":"1000","climate":"temperate","terrain":"oceans, savannas, mountains, grasslands","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b032b88b835283954e5"},"films":[],"name":"Bestine IV","population":"62000000","climate":"temperate","terrain":"rocky islands, oceans","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b252b88b835283954e6"},"films":["https://swapi.co/api/films/2/"],"name":"Ord Mantell","population":"4000000000","climate":"temperate","terrain":"plains, seas, mesas","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b432b88b835283954e7"},"films":[],"name":"unknown","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b5f2b88b835283954e8"},"films":[],"name":"Trandosha","population":"42000000","climate":"arid","terrain":"mountains, seas, grasslands, deserts","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b712b88b835283954e9"},"films":[],"name":"Socorro","population":"300000000","climate":"arid","terrain":"deserts, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41b9e2b88b835283954ea"},"films":[],"name":"Mon Cala","population":"27000000000","climate":"temperate","terrain":"oceans, reefs, islands","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41bb92b88b835283954eb"},"films":[],"name":"Chandrila","population":"1200000000","climate":"temperate","terrain":"plains, forests","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41bd22b88b835283954ec"},"films":[],"name":"Sullust","population":"18500000000","climate":"superheated","terrain":"mountains, volcanoes, rocky deserts","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41bea2b88b835283954ed"},"films":[],"name":"Toydaria","population":"11000000","climate":"temperate","terrain":"swamps, lakes","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41c032b88b835283954ee"},"films":[],"name":"Malastare","population":"2000000000","climate":"arid, temperate, tropical","terrain":"swamps, deserts, jungles, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41c222b88b835283954ef"},"films":[],"name":"Dathomir","population":"5200","climate":"temperate","terrain":"forests, deserts, savannas","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41c462b88b835283954f0"},"films":[],"name":"Ryloth","population":"1500000000","climate":"temperate, arid, subartic","terrain":"mountains, valleys, deserts, tundra","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41c692b88b835283954f1"},"films":[],"name":"Aleen Minor","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41c8a2b88b835283954f2"},"films":[],"name":"Vulpter","population":"421000000","climate":"temperate, artic","terrain":"urban, barren","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ca72b88b835283954f3"},"films":[],"name":"Troiken","population":"unknown","climate":"unknown","terrain":"desert, tundra, rainforests, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41cc82b88b835283954f4"},"films":[],"name":"Tund","population":"0","climate":"unknown","terrain":"barren, ash","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41cee2b88b835283954f5"},"films":[],"name":"Haruun Kal","population":"705300","climate":"temperate","terrain":"toxic cloudsea, plateaus, volcanoes","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d062b88b835283954f6"},"films":[],"name":"Cerea","population":"450000000","climate":"temperate","terrain":"verdant","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d252b88b835283954f7"},"films":[],"name":"Glee Anselm","population":"500000000","climate":"tropical, temperate","terrain":"lakes, islands, swamps, seas","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d482b88b835283954f8"},"films":[],"name":"Iridonia","population":"unknown","climate":"unknown","terrain":"rocky canyons, acid pools","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d602b88b835283954f9"},"films":[],"name":"Tholoth","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d782b88b835283954fa"},"films":[],"name":"Iktotch","population":"unknown","climate":"arid, rocky, windy","terrain":"rocky","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41d8c2b88b835283954fb"},"films":[],"name":"Quermia","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41da12b88b835283954fc"},"films":[],"name":"Dorin","population":"unknown","climate":"temperate","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41dbc2b88b835283954fd"},"films":[],"name":"Champala","population":"3500000000","climate":"temperate","terrain":"oceans, rainforests, plateaus","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ddf2b88b835283954fe"},"films":[],"name":"Mirial","population":"unknown","climate":"unknown","terrain":"deserts","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e002b88b835283954ff"},"films":[],"name":"Serenno","population":"unknown","climate":"unknown","terrain":"rainforests, rivers, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e182b88b83528395500"},"films":[],"name":"Concord Dawn","population":"unknown","climate":"unknown","terrain":"jungles, forests, deserts","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e2d2b88b83528395501"},"films":[],"name":"Zolan","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e412b88b83528395502"},"films":[],"name":"Ojom","population":"500000000","climate":"frigid","terrain":"oceans, glaciers","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e572b88b83528395503"},"films":[],"name":"Skako","population":"500000000000","climate":"temperate","terrain":"urban, vines","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e752b88b83528395504"},"films":[],"name":"Muunilinst","population":"5000000000","climate":"temperate","terrain":"plains, forests, hills, mountains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41e902b88b83528395505"},"films":[],"name":"Shili","population":"unknown","climate":"temperate","terrain":"cities, savannahs, seas, plains","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ea82b88b83528395506"},"films":[],"name":"Kalee","population":"4000000000","climate":"arid, temperate, tropical","terrain":"rainforests, cliffs, canyons, seas","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ebe2b88b83528395507"},"films":[],"name":"Umbara","population":"unknown","climate":"unknown","terrain":"unknown","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41ef22b88b83528395508"},"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/4/","https://swapi.co/api/films/6/","https://swapi.co/api/films/3/","https://swapi.co/api/films/1/"],"name":"Tatooine","population":"200000","climate":"arid","terrain":"desert","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ce41f2d2b88b83528395509"},"films":["https://swapi.co/api/films/7/"],"name":"Jakku","population":"unknown","climate":"unknown","terrain":"deserts","__v":{"$numberInt":"0"}}

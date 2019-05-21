@@ -11,21 +11,21 @@ app.use(bodyParser.json());
 
 //Import Routes
 const planetsRoute = require('./routes/planets');
-
 app.use('/planets', planetsRoute);
+
 // ROUTES
 
 app.get('/', (req, res) => {
 	res.send('Pagina Inicial');
 });
 
-// CONNECT TO DATABASE
+// CONNECT TO DATABASE (USE .ENV TO CREATE ENVIRONMENT VARIABLES AND USE THEM SAFELY)
 
 mongoose.connect(process.env.DB_CONNECTION, { useNewUrlParser: true }, () =>
 	console.log('Connected to Planets Database!')
 );
 
-// hOW DO WE START LISTENING TO THE SERVER?
+// HOW DO WE START LISTENING TO THE SERVER?
 
 app.listen(process.env.PORT || 3000);
-console.log(process.env.PORT);
+//console.log(process.env.PORT);
