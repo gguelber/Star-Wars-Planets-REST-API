@@ -21,4 +21,8 @@ async function getData(url) {
 	}
 }
 
-window.onload = getData(endpoint);
+window.onload = setTimeout(() => {
+	if (confirm('Click OK to start!') == true) {
+		getData(endpoint);
+	}
+}, 1000);
