@@ -19,6 +19,7 @@ API rules:
   GET methods:
 
   /planets/:id ---- Get planet by ID
+  
   /planets/:planetName ---- Get planet by planetName
 
   POST methods:
