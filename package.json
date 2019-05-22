@@ -1,12 +1,12 @@
 {
-	"name": "restful-training",
+	"name": "star-wars-random-planet-generator",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A simple responsive web application to show a random planet from a database",
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon server.js"
 	},
-	"author": "",
+	"author": "Gustavo Guelber",
 	"license": "ISC",
 	"dependencies": {
 		"body-parser": "^1.19.0",
