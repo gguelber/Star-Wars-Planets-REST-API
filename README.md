@@ -38,6 +38,7 @@ API rules:
   PATCH methods:
    
    /planets/:id ---- PATCH by planet ID
+   
    /planets/:planetName ---- PATCH by planet name
    
       
@@ -53,4 +54,5 @@ API rules:
   DELETE methods:
     
    /planets/:id ---- DELETE by planet ID
+   
    /planets/:planetName ---- DELETE by planet name
