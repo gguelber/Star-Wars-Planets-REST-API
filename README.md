@@ -11,3 +11,45 @@ Instructions:
   - Open index.html and have fun!
   - The getRandomPlanet function is called once when the page is loaded (window.onload)
   - The NEXT button gets a random planet from the db and show it on the screen.
+
+
+
+API rules:
+
+  GET methods:
+
+  /planets/:id ---- Get planet by ID
+  /planets/:planetName ---- Get planet by planetName
+
+  POST methods:
+  
+  /planets/ ---- POST a new planet
+  
+      Required Schema:
+      {
+        "name": "name",
+        "population": "population",
+        "climate": "climate",
+        "terrain": "terrain",
+        "films": ["film1", "film2"]
+      }
+      
+  PATCH methods:
+   
+   /planets/:id ---- PATCH by planet ID
+   /planets/:planetName ---- PATCH by planet name
+   
+      
+      Required Schema:
+      {
+        "name": "name",
+        "population": "population",
+        "climate": "climate",
+        "terrain": "terrain",
+        "films": ["film1", "film2"]
+      }
+      
+  DELETE methods:
+    
+   /planets/:id ---- DELETE by planet ID
+   /planets/:planetName ---- DELETE by planet name
