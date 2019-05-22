@@ -5,8 +5,8 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 require('dotenv/config');
 
-//Middlewares --- São executados sempre antes de qualquer rota ser atingida, agindo como filtro
-app.use(cors()); // Permite acessar os dados de qualquer lugar
+//Middlewares
+app.use(cors()); // Allows access from everywhere
 app.use(bodyParser.json());
 
 //Import Routes

@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Planet = require('../models/Planet');
 
-// RETORNAR TODOS OS PLANETAS -- working
+// RETORNAR TODOS OS PLANETAS -- GET ALL PLANETS
 
 router.get('/', async (req, res) => {
 	try {
@@ -13,7 +13,7 @@ router.get('/', async (req, res) => {
 	}
 });
 
-// RETORNAR UM PLANETA ESPECIFICO POR NOME OU ID (planetParam)  -- working
+// RETORNAR UM PLANETA ESPECIFICO POR NOME OU ID (planetParam)  -- GET A SPECIFIC PLANET BY NAME OR ID
 
 router.get('/:planetParam', async (req, res) => {
 	try {
@@ -25,7 +25,7 @@ router.get('/:planetParam', async (req, res) => {
 	}
 });
 
-// CRIAR UM PLANETA -- working
+// CRIAR UM PLANETA -- CREATE A PLANET
 
 router.post('/', async (req, res) => {
 	const planet = new Planet({
@@ -43,7 +43,7 @@ router.post('/', async (req, res) => {
 	}
 });
 
-// DELETAR UM PLANETA ESPECIFICO POR ID OU NOME (planetParam) -- working
+// DELETAR UM PLANETA ESPECIFICO POR ID OU NOME -- DELETE A SPECIFIC PLANET BY ID OR NAME (planetParam)
 
 router.delete('/:planetParam', async (req, res) => {
 	try {
@@ -59,7 +59,8 @@ router.delete('/:planetParam', async (req, res) => {
 	}
 });
 
-// ATUALIZAR (EDITAR) UM PLANETA ESPECIFICO POR ID ou NOME(planetId) -- working (deve-se especificar todos os campos necessarios, do contrário o campo será definido como null)
+// ATUALIZAR (EDITAR) UM PLANETA ESPECIFICO POR ID ou NOME (deve-se especificar todos os campos necessarios, do contrário o campo será definido como null)
+//(planetParam) -- UPDATE A SPECIFIC PLANET BY NAME OR ID (you must specify all fields, otherwise they'll be defined as null)
 
 router.patch('/:planetParam', async (req, res) => {
 	try {
