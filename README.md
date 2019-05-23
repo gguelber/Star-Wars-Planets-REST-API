@@ -16,13 +16,13 @@ Instructions:
 
 API rules:
 
-  GET methods:
+  GET endpoints:
 
   /planets/:id ---- Get planet by ID
   
   /planets/:planetName ---- Get planet by planetName
 
-  POST methods:
+  POST endpoints:
   
   /planets/ ---- POST a new planet
   
@@ -35,7 +35,7 @@ API rules:
         "films": ["film1", "film2"]
       }
       
-  PATCH methods:
+  PATCH endpoints:
    
    /planets/:id ---- PATCH by planet ID
    
@@ -51,7 +51,7 @@ API rules:
         "films": ["film1", "film2"]
       }
       
-  DELETE methods:
+  DELETE endpoints:
     
    /planets/:id ---- DELETE by planet ID
    
